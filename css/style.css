@@ -131,7 +131,8 @@ ol {
 }
 
 @media (prefers-reduced-motion) {
-    .main_img{
-        animation-play-state: paused;
+    .gif{
+        width: 0%;
+        height: 0%;
     }
 }
